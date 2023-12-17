@@ -4,7 +4,7 @@
         <title>Museum Liner - Appcast</title>
         <item>
             <title>Version 1.2.10</title>
-            <description>버그 수정 및 성능 개선</description>
+            <description>버그 수정 및 기능 개선</description>
             <pubDate>2023-12-17 17:00:00 +0900</pubDate>
             <enclosure url="https://google.com"
                        sparkle:version="1.2.10" sparkle:os="android" />
